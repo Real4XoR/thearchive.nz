@@ -4,7 +4,6 @@ command = "hugo"
 
 [build.environment]
 HUGO_VERSION = "0.111.3"
-HUGO_THEME = "hugo-code"
 
 [context.deploy-preview]
 command = "hugo --enableGitInfo"
