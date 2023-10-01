@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.thearchive.nz/about/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.thearchive.nz/tags/shortcodes/</loc>
+    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>http://www.thearchive.nz/tags/</loc>
+    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>http://www.thearchive.nz/</loc>
+    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>http://www.thearchive.nz/authors/</loc>
+  </url><url>
+    <loc>http://www.thearchive.nz/categories/</loc>
+  </url><url>
+    <loc>http://www.thearchive.nz/contact/</loc>
+  </url><url>
+    <loc>http://www.thearchive.nz/projects/</loc>
+  </url><url>
+    <loc>http://www.thearchive.nz/series/</loc>
+  </url>
+</urlset>
