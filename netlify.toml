@@ -4,10 +4,10 @@ command = "hugo"
 
 [build.environment]
 HUGO_VERSION = "0.111.3"
-HUGO_THEME = "repo"
+HUGO_THEME = "hugo-code"
 
 [context.deploy-preview]
-command = "hugo --gc --minify --enableGitInfo"
+command = "hugo --enableGitInfo"
 
 [context.production.envitonment]
 HUGO_ENV = "production"
