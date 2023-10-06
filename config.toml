@@ -14,7 +14,7 @@ noClasses = false
 [params]
 author = "Nathan Cobbald"
 description = ""
-keywords = "blog,developer,personal"
+keywords = "blog,developer,personal,cyber,cybersecurity,hugo,nathan,cobbald,portfolio "
 info = ["Penetration Tester", "Cyber Security", "Software Development"]
 avatarURL = "images/glowingmushroom.jpg"
 dateFormat = "January 2, 2006"
