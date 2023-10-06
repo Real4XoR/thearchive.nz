@@ -1,4 +1,4 @@
-+++ 
+\+++ 
 date = 2023-10-06T11:10:28+13:00
 title = "Building my first website with Hugo"
 description = ""
@@ -19,7 +19,7 @@ It's a general-purpose website framework. Technically speaking, Hugo is a static
 
 Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere, including Netlify, Heroku, GoDaddy, DreamHost, GitHub Pages, GitLab Pages to name a few. The sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP, which is awesome because I despise doing any of those things.
 
-As of right now Hugo is the ideal website creation tool as it boasts nearly instant runtime, able to rebuild whenever a change is made.
+As of right now Hugo is the ideal website creation tool as it boasts nearly instant runtime and the ability to rebuild as soon as a change is made.
 
 # How I got started
 
