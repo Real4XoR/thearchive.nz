@@ -35,8 +35,7 @@ customCSS = []
 customSCSS = []
 
 # Custom JS
-customJS = [<script data-goatcounter="https://thearchive.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>]
+customJS = [] 
 
 # Custom remote JS files
 customRemoteJS = []
@@ -53,7 +52,7 @@ customRemoteJS = []
 # outboundLinksTracking = true
 # fileDownloadsTracking = true
 
-If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+#If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
 [params.goatCounter]
 code = "thearchive"
 
