@@ -25,7 +25,7 @@ As of right now Hugo is the ideal website creation tool as it boasts nearly inst
 
 Lucky for you Hugo has great documentation and a walkthrough guide to get you setup with a basic website that can easily be fleshed out from a solid start point. 
 
-I also found it useful to use some external resources, which I've listed down below, that other people have made that tailored a bit more to what I wanted to get out of my website
+I also found it useful to use some external resources, which I've listed down below that other people have created which tailor to what I wanted to get out of my website
 
 ## Resources
 
