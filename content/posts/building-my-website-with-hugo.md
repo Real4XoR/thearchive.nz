@@ -21,7 +21,7 @@ Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted
 
 As of right now Hugo is the ideal website creation tool as it boasts nearly instant runtime, able to rebuild whenever a change is made.
 
-# How I got started with it
+# How I got started
 
 Lucky for you Hugo has great documentation and a walkthrough guide to get you setup with a basic website that can easily be fleshed out from a solid start point. 
 
