@@ -35,7 +35,8 @@ customCSS = []
 customSCSS = []
 
 # Custom JS
-customJS = []
+customJS = [<script data-goatcounter="https://thearchive.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>]
 
 # Custom remote JS files
 customRemoteJS = []
