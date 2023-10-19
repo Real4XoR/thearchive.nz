@@ -32,4 +32,4 @@ I also found it useful to use some external resources, which I've listed down be
 - [Hugo quickstart guide](https://gohugo.io/getting-started/quick-start/)
 - [Installing custom hugo themes](https://staticmania.com/blog/install-hugo-theme)
 - [Walkthrough guide for setup](https://kinsta.com/blog/hugo-static-site/)
-- [Generating you first Hugo website](https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/)
+- [Generating your first Hugo website](https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/)

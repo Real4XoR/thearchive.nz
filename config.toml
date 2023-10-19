@@ -14,9 +14,10 @@ noClasses = false
 [params]
 author = "Nathan Cobbald"
 description = ""
-keywords = "blog,developer,personal,cyber,cybersecurity,hugo,nathan,cobbald,portfolio "
+keywords = "blog,developer,personal,cyber,cybersecurity,hugo,nathan,cobbald,portfolio,nathan cobbald"
 info = ["Penetration Tester", "Cyber Security", "Software Development"]
 avatarURL = "images/glowingmushroom.jpg"
+favicon = "favicon.ico"
 dateFormat = "January 2, 2006"
 since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
@@ -137,7 +138,7 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 2
 url = "posts/"
 
