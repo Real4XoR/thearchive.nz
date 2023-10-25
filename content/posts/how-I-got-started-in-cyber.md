@@ -18,8 +18,8 @@ cyber security course and realized I didn't actually enjoy writing code as much 
 did. I much prefered to see how I could break someone elses code and instead taught myself the 
 basics of reverse engineering and web based hacking.
 
-Although I didn't find much use in my software related courses they still provided a solid background to build and makes everything done from this point forward much easier on the brain. 
-I found my cyber courses really interesting and is what pushed me to start pursueing a career in cyber security as I had some 
+Although I didn't find much use in my software related courses - they still provided a solid background that makes everything going forward a little easier. 
+I found my cyber courses really interesting and is what finally pushed me to start pursueing a career in cyber security as I had some 
 great lecturers who really seemed to have a passion for what they taught.
 
 During this time I was still improving on my own skills using online tools, a lot of which I've 
