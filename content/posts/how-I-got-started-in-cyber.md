@@ -32,8 +32,8 @@ miracle out of the 15 I applied for I got a response from a Wellington company b
 technical testing phase and after about a week of waiting I got a call back saying they'd like me to 
 intern through the summer at their office.
 
-This was what got me a foot in the door and I will forever be greatful for that as it is notoriously
-difficult to break into cyber security and this was the perfect oppurtunity to do so.
+This is what got me a foot in the door and I will forever be greatful for that as it is notoriously
+difficult to break into cyber security and this was the perfect oppurtunity to do so. Now here I am.
 
 ## Website Links
 
