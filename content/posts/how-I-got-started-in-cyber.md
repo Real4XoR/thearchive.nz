@@ -12,7 +12,7 @@ series = []
 
 # The Beginning 
 
-It all started when lil ol Nathan went to university with aspirations to be a software developer and 
+It all started when li'l ol' Nathan went to university with aspirations to be a software developer and 
 work for one of the big four, but that quickly changed after I got to my second trimester, took a 
 cyber security course and realized I didn't actually enjoy writing code as much as I thought I 
 did. I much prefered to see how I could break someone elses code and instead taught myself the 
