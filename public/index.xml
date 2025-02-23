@@ -1,46 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Archive</title>
-    <link>http://www.thearchive.nz/</link>
-    <description>Recent content on The Archive</description>
+    <title>Blowfish</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Jan 2023 11:51:36 +0100</lastBuildDate><atom:link href="http://www.thearchive.nz/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Nathan Cobbald</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>About</title>
-      <link>http://www.thearchive.nz/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.thearchive.nz/about/</guid>
-      <description>Learn about me</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
     </item>
     
     <item>
-      <title>Códigos curtos</title>
-      <link>http://www.thearchive.nz/tags/shortcodes/</link>
-      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <title>My first post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.thearchive.nz/tags/shortcodes/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>This is my first post on my site</description>
+      
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.thearchive.nz/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.thearchive.nz/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.thearchive.nz/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.thearchive.nz/projects/</guid>
-      <description>Nothing here yet&amp;hellip;. move along.</description>
     </item>
     
   </channel>

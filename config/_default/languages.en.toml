@@ -1,0 +1,26 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Nathan Cobbald"
+  image = "glowingmushroom.jpg"
+  imageQuality = 96
+  headline = "Voiding warranties for no good reason"
+  links = [
+    { github = "https://github.com/Real4XoR" },
+    { linkedin = "https://www.linkedin.com/in/nathan-cobbald-106b4a253" },
+  ]
+  
