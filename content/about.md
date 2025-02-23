@@ -13,5 +13,3 @@ I'm a soon to be graduate majoring in computer science with a passion for all th
 ## What I do
 
 I currently work full time as a Security Consultant for [Aura Security](https://aurainfosec.com) doing all sorts of cool things.
-
-

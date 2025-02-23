@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo"
 
 [build.environment]
-HUGO_VERSION = "0.111.3"
+HUGO_VERSION = "0.144.2"
 
 [context.deploy-preview]
 command = "hugo --enableGitInfo"
@@ -11,4 +11,3 @@ command = "hugo --enableGitInfo"
 [context.production.envitonment]
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-
