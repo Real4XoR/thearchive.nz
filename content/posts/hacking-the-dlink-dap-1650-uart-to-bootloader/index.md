@@ -1,5 +1,5 @@
 ---
-title: "Hacking the D-Link DAP-1650 Uart to Bootloader"
+title: "Hacking the D-Link DAP-1650 - UART to Bootloader"
 date: 2026-11-02T10:50:52+13:00
 draft: false
 description: "Tearing down a retired D-Link DAP-1650: a root shell over UART with a Tigard, then glitching the flash chip to reach the RealTek bootloader."
