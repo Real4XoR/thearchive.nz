@@ -1,0 +1,11 @@
+# Hugo build output and caches
+/public/
+/resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Node (only needed if you rebuild the theme CSS with Tailwind)
+node_modules/
+
+# OS cruft
+.DS_Store
