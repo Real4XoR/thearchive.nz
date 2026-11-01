@@ -3,7 +3,6 @@ title: "Taking a Look at the Tapo C110 Camera - Firmware Extraction, Analysis, a
 date: 2026-11-02T11:13:00+13:00
 draft: false
 description: "Tapo C110 UART is disabled in software, so the firmware comes off the flash chip with a CH341A. Inside: Wi-Fi scan data sent to the cloud and cleartext passwords."
-summary: "The UART pads on the Tapo C110 are dead, disabled in software rather than by the usual missing resistors, so the firmware comes off the flash chip with a SOIC8 clip and a CH341A. Binwalk pulls a SquashFS root out of the dump, and the main binary turns up Wi-Fi scan data posted to TP-Link's cloud, Wi-Fi passwords written to logs in cleartext, and an exec sh -c that looks like a prime target for command injection."
 tags: ["Hardware Hacking", "Reverse Engineering"]
 categories: []
 
