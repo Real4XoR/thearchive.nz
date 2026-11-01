@@ -26,20 +26,42 @@ Then open http://localhost:1313.
 hugo new posts/my-post-title
 ```
 
-That creates `content/posts/my-post-title/index.md` as a page bundle, using
-`archetypes/posts/index.md`. Keep images for the post in the same folder and
-reference them relatively:
+That creates a page bundle, already containing an `img/` folder for the
+post's images:
 
-```markdown
-![alt text](screenshot.png)
+```
+content/posts/my-post-title/
+  index.md
+  img/
 ```
 
-For a hero banner, name an image `feature.jpg` (or `cover.jpg`) in the bundle
-and uncomment `showHero` / `heroStyle` in the front matter.
+Put images in `img/` and reference them with a relative path:
+
+```markdown
+![Describe the image](img/screenshot.png "Optional caption")
+```
+
+Hugo turns those into responsive `srcset` images at build time, so use the
+original file — no need to resize anything first.
+
+For a hero banner, put the image at the **top level** of the bundle, named
+`feature.jpg`, and uncomment `showHero` / `heroStyle` in the front matter:
+
+```
+content/posts/my-post-title/
+  index.md
+  feature.jpg      <- hero banner, card thumbnail and social preview
+  img/
+    screenshot.png <- inline images
+```
+
+The hero image has to sit beside `index.md`. Blowfish matches it with the
+glob `*feature*`, which does not look inside subfolders, so `img/feature.jpg`
+is silently ignored.
 
 Posts are created with `draft: true`. Flip it to `false` to publish.
 
-A flat file also works if a post has no images:
+A flat file also works if a post has no images at all:
 
 ```sh
 hugo new posts/my-post-title.md
