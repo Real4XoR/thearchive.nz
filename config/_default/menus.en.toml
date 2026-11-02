@@ -52,6 +52,11 @@
   pageRef = "tags"
   weight = 30
 
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -67,3 +72,8 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
